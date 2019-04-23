@@ -1,0 +1,28 @@
+
+
+* {
+    margin: 2px;
+    padding-bottom: 4px;
+}
+
+.header {
+height: 50vh;
+}
+
+.navbar-style{
+    box-shadow: 10px 5px #efefef;
+    background: rgba(64, 255, 0, 0.5);
+    opacity: 1;
+    }
+
+ .logo {
+    height: 48px;
+    padding-bottom: 7px;
+    color: orange;
+    font-size: 50px;
+    }
+
+body{
+ background-image: url('sss2.jpg') fixed center no-repeat;
+ background-size: cover;
+}
